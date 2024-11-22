@@ -18,6 +18,17 @@ The project consists of several key components:
 5. **Model Evaluation**: Evaluating the model's performance using metrics such as accuracy, precision, recall, and ROC-AUC score.
 6. **Visualization**: Employing visualization techniques to understand data distributions and model outcomes.
 
+## Installation
+The project is developed in Python 3.7+. To install the required packages and libraries, follow these steps:
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 ### Run
 To run the project locally:
 
